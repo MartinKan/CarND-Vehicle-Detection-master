@@ -114,7 +114,7 @@ Ultimately I searched on two scales and window sizes ("scale=1, window size=128"
 ### Video Implementation
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [link to my video result](./writeup_images/project_video_final.mp4)
+Here's a [link to my video result](./output_images/project_video_final.mp4)
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 

@@ -1,4 +1,8 @@
-**Vehicle Detection Project**
+## Udacity Self Driving Car Nanodegree
+## Vehicle Detection
+## Project Writeup
+
+---
 
 The goals / steps of this project are the following:
 
@@ -10,13 +14,13 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./output_images/image1.jpg
+[image1]: ./output_images/Image1.jpg
 [image2]: ./output_images/image2.png
 [image3]: ./output_images/trainGOOD_HOG_scale1_win32.png
 [image4]: ./output_images/trainGOOD_HOG_scale1_win64.png
 [image5]: ./output_images/trainGOOD_HOG_scale1_win128.png
 [image6]: ./output_images/trainGOOD_HOG_scale1p5_win16.png
-[image7]: ./output_images/trainGOOD_HOG_scale1p5_win32.png
+[image7]: ./output_images/trainGOOD_HOG_scale_1p5_win32.png
 [image8]: ./output_images/trainGOOD_HOG_scale1p5_win64.png
 [image9]: ./output_images/trainGOOD_HOG_scale1p5_win128.png
 [image10]: ./output_images/trainGOOD_HOG_scale2_win64.png
